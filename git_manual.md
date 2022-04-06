@@ -9,11 +9,11 @@ git clone [url]
 :   拷贝一份远程仓库，也就是下载一个项目
 
 git add 
-:   git add [file1] [file2]
+-   git add [file1] [file2]
     :   添加一个或多个文件到暂存区
-:   git add [dir]
+-   git add [dir]
     :   添加指定目录到暂存区，包括子目录
-:   git add .
+-   git add .
     :   添加当前目录下的所有文件到暂存区
 
 git status
@@ -54,9 +54,9 @@ git push
 
 ## 二、分支管理
 git branch 
-:   git branch
+-   git branch
     :   列出分支
-:   git branch [branchname]
+-   git branch [branchname]
     :   创建分支命令
 
 git checkout [branchname]
